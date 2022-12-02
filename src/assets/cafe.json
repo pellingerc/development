@@ -1,0 +1,114 @@
+[
+    {
+        "name": "Oat Milk Latte",
+        "diet": "",
+        "drink": "coffee",
+        "price": 4.99,
+        "calories": 190,
+        "image": "images/oatlatte.jpeg"
+    },
+    {
+        "name": "Black Coffee",
+        "diet": "",
+        "drink": "coffee",
+        "price": 3.99,
+        "calories": 80,
+        "image": "images/blackcoffee.jpeg"
+    },
+    {
+        "name": "Whole Milk Latte",
+        "diet": "Dairy",
+        "drink": "coffee",
+        "price": 4.59,
+        "calories": 200,
+        "image": "images/wholelatte.jpeg"
+    },
+    {
+        "name": "Peppermint Mocha",
+        "diet": "Dairy",
+        "drink": "mocha",
+        "price": 2.99,
+        "calories": 300,
+        "image": "images/pepmocha.jpeg"
+    },
+    {
+        "name": "Caffe Mocha",
+        "diet": "Dairy",
+        "drink": "mocha",
+        "price": 2.99,
+        "calories": 300,
+        "image": "images/caffemocha.jpeg"
+    },
+    {
+        "name": "Carmel Macchiato",
+        "diet": "Dairy",
+        "drink": "coffee",
+        "price": 5.59,
+        "calories": 250,
+        "image": "images/carmelmacc.jpeg"
+    },
+    {
+        "name": "Sugar Cookie Almondmilk Latte",
+        "diet": "Nuts",
+        "drink": "coffee",
+        "price": 5.99,
+        "calories": 180,
+        "image": "images/sugarcookie.JPEG"
+    },
+    {
+        "name": "Espresso",
+        "diet": "",
+        "drink": "coffee",
+        "price": 2.99,
+        "calories": 10,
+        "image": "images/espresso.jpeg"
+    },
+    {
+        "name": "Earl Grey Tea",
+        "diet": "",
+        "drink": "tea",
+        "price": 2.59,
+        "calories": 0,
+        "image": "images/earlgrey.jpeg"
+    },
+    {
+        "name": "Match Tea Latte",
+        "diet": "Dairy",
+        "drink": "tea",
+        "price": 3.89,
+        "calories": 240,
+        "image": "images/matcha.jpeg"
+    },
+    {
+        "name": "Morning Mint",
+        "diet": "",
+        "drink": "tea",
+        "price": 1.99,
+        "calories": 0,
+        "image": "images/mint.jpeg"
+    },
+    {
+        "name": "Chocolate Cream Cold Brew",
+        "diet": "Dairy",
+        "drink": "coffee",
+        "price": 5.49,
+        "calories": 250,
+        "image": "images/creamcold.jpeg"
+    },
+    {
+        "name": "Honey Almondmilk Flat White",
+        "diet": "Nuts",
+        "drink": "coffee",
+        "price": 5.29,
+        "calories": 120,
+        "image": "images/almondflat.jpeg"
+    },
+    {
+        "name": "Pumpkin Spice Latte",
+        "diet": "Dairy",
+        "drink": "coffee",
+        "price": 5.99,
+        "calories": 390,
+        "image": "images/pumpkinspice.jpeg"
+    }
+]
